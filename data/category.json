@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "name": "All Toys"
+    },
+    {
+        "id": "1",
+        "name": "Sports car"
+    },
+    {
+        "id": "2",
+        "name": "Truck"
+    },
+    {
+        "id": "3",
+        "name": "Regular car"
+    },
+    {
+        "id": "4",
+        "name": "Mini fire truck"
+    },
+    {
+        "id": "5",
+        "name": "Mini police car"
+    }
+]
